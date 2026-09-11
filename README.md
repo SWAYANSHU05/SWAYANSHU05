@@ -138,7 +138,7 @@
 
 <br>
 
-`Activity visualization coming soon...`
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SWAYANSHU05&bg_color=0D1117&color=FFFFFF&line=00E5FF&point=00E676&area=true&hide_border=true&custom_title=GitHub%20Activity" />
 
 </div>
 
