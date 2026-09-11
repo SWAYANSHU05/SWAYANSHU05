@@ -13,21 +13,35 @@
 <br>
 
 ---
-
 <div align="center">
 
 ## `── ABOUT ──`
 
-</div>
+<br>
 
-<div align="center">
+<img src="https://user-images.githubusercontent.com/47064496/132361110-7f96ad46-6c77-4e00-b420-c3f52e7c22c6.gif"
+     width="220"
+     alt="Programmer coding animation">
 
-I enjoy solving problems, understanding algorithms,
-and digging beneath abstractions to see how things actually work.
+<br>
 
-Competitive programming is where I spend most of my time,
-with a particular interest in mathematics, C/C++,
-low-level systems and backend engineering.
+> 🧠 **Competitive Programming**
+>
+> I enjoy turning mathematical ideas into algorithms,
+> solving problems, and finding the simplest way through
+> complicated constraints.
+
+<br>
+
+> ⚙️ **Low-Level & Systems**
+>
+> I like understanding what happens beneath the abstraction —
+> memory, processes, data structures, and how software
+> actually works closer to the machine.
+
+<br>
+
+`C / C++` &nbsp; `Algorithms` &nbsp; `Mathematics` &nbsp; `Systems`
 
 </div>
 
@@ -110,7 +124,7 @@ low-level systems and backend engineering.
 
 <br>
 
-<img src="https://skillicons.dev/icons?i=cpp,c,python,postgres,git" />
+<img src="https://skillicons.dev/icons?i=cpp,c,java,html,css,github,git" />
 
 </div>
 
