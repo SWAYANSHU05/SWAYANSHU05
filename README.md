@@ -37,7 +37,17 @@ low-level systems and backend engineering.
 
 <div align="center">
 
-## `── THE NUMBERS ──`
+### `── THE NUMBERS ──`
+
+<br>
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=SWAYANSHU05&show_icons=true&theme=github_dark&hide_border=true" height="165">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SWAYANSHU05&layout=compact&theme=github_dark&hide_border=true" height="165">
+
+</div>
 
 <br>
 
