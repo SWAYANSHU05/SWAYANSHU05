@@ -65,7 +65,7 @@
 
 <!-- STATS WILL GO HERE -->
 
-`GitHub statistics coming soon...`
+<!--`GitHub statistics coming soon...`-->
 
 </div>
 
