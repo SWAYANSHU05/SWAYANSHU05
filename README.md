@@ -61,20 +61,6 @@ low-level systems and backend engineering.
 
 <div align="center">
 
-## `── PROBLEMS SOLVED ──`
-
-<br>
-
-`CP statistics coming soon...`
-
-</div>
-
-<br>
-
----
-
-<div align="center">
-
 ## `── CONTRIBUTION GRID ──`
 
 <br>
