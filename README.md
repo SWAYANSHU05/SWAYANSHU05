@@ -71,7 +71,20 @@ low-level systems and backend engineering.
 
 <br>
 
-`🐍 Contribution Snake coming soon...`
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+          srcset="https://raw.githubusercontent.com/SWAYANSHU05/SWAYANSHU05/output/github-snake-dark.svg">
+
+  <source media="(prefers-color-scheme: light)"
+          srcset="https://raw.githubusercontent.com/SWAYANSHU05/SWAYANSHU05/output/github-snake.svg">
+
+  <img alt="GitHub Contribution Snake"
+       src="https://raw.githubusercontent.com/SWAYANSHU05/SWAYANSHU05/output/github-snake.svg">
+</picture>
+
+</div>
 
 </div>
 
