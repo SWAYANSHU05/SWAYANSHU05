@@ -134,6 +134,20 @@
 
 <div align="center">
 
-`∴`    `∞`    `∴`
+## `── SYSTEM ACTIVITY ──`
+
+<br>
+
+<img src="https://raw.githubusercontent.com/SWAYANSHU05/SWAYANSHU05/main/cp_low_level_engine.gif"
+     width="850"
+     alt="CP and low-level systems animation">
+
+<br><br>
+
+> **"I like understanding what happens beneath the abstraction."**
+
+<br><br>
+
+`∴`    `∞`    `∴`
 
 </div>
