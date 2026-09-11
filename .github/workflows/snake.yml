@@ -15,16 +15,20 @@ jobs:
 
     steps:
       - name: Generate Snake
-        uses: Platane/snk@v3
+        uses: Platane/snk/svg-only@v3
         with:
           github_user_name: SWAYANSHU05
           outputs: |
-            "dist/github-snake.svg?color_snake=%2300E5FF&color_dots=%23161B22,%230B3D3E,%23087F5B,%2300BFA5,%2300E676"
-            "dist/github-snake-dark.svg?color_snake=%2300E5FF&color_dots=%23161B22,%230B3D3E,%23087F5B,%2300BFA5,%2300E676"
+            dist/github-snake.svg?color_snake=%2300E5FF&color_dots=%23161B22,%230B3D3E,%23087F5B,%2300BFA5,%2300E676
+            dist/github-snake-dark.svg?color_snake=%2300E5FF&color_dots=%23161B22,%230B3D3E,%23087F5B,%2300BFA5,%2300E676
+
+      - name: Verify Snake
+        run: ls -lah dist
 
       - name: Publish Snake
         uses: peaceiris/actions-gh-pages@v4
         with:
-           github_token: ${{ secrets.GITHUB_TOKEN }}
-           publish_branch: output
-           publish_dir: ./dist
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_branch: output
+          publish_dir: ./dist
+          force_orphan: true
